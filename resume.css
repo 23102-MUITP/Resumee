@@ -1,0 +1,11 @@
+body{color: rgb(49, 49, 88);}
+body{font-size:13pt}
+h1{color: rgb(97, 51, 51); padding-left: 30%;text-decoration: underline;display: inline;}
+span{color: rgb(1, 24, 16);}
+.hehe{color: rgb(79, 77, 5);  background-color: lightblue; margin: 8%;}
+.hehe{  border: 5px solid black;
+    padding-left: 10px;  text-align: center
+  }
+  .morn{color: black; background-color: azure; border: 5px solid black; text-align: center}
+  .hi{padding-left: 33%}
+  h3{text-decoration: underline;}
